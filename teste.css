@@ -1,0 +1,181 @@
+.body {
+  background-color: #fff2f2;
+}
+
+.menu {
+  font-family: "Overlock";
+  display: inline-block;
+  position: absolute;
+
+  margin-top: 10px;
+  color: #f187ad;
+}
+
+.home {
+  position: absolute;
+  margin-left: 700px;
+}
+
+.carrinho {
+  position: absolute;
+  margin-left: 800px;
+}
+
+.falecomigo {
+  position: absolute;
+  margin-left: 900px;
+  width: 100px;
+}
+
+.img {
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 15px;
+}
+
+.nanda {
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 110px;
+}
+
+.ola {
+  position: absolute;
+  font-family: "Sacramento";
+  color: #f080a9;
+  font-size: 45px;
+  margin-top: 470px;
+  margin-left: 150px;
+}
+
+.sobre,
+.sobre2,
+.nome {
+  font-family: "Overlock";
+  position: absolute;
+  width: 300px;
+  text-align: center;
+  margin-top: 560px;
+  margin-left: 35px;
+  font-size: 12px;
+}
+
+.sobre2 {
+  margin-top: 600px;
+}
+
+.nome {
+  margin-top: 530px;
+}
+
+.msg {
+  font-family: "Overlock";
+  position: absolute;
+  color: #f080a9;
+  font-size: 20px;
+  margin-top: 350px;
+  margin-left: 420px;
+  font-weight: 500;
+}
+
+input {
+  font-family: "Overlock";
+  position: absolute;
+  margin-top: 430px;
+  margin-left: 420px;
+  border: none;
+  width: 250px;
+  height: 50px;
+  color: #f080a9;
+  background-color: rgba(255, 255, 255, 0.6);
+  text-indent: 20px;
+  text-decoration-color: #f080a9;
+}
+
+::placeholder {
+  color: #f080a9;
+}
+
+.campo2 {
+  margin-left: 690px;
+}
+
+.campo3 {
+  margin-top: 500px;
+}
+
+.campo4 {
+  margin-top: 500px;
+  margin-left: 690px;
+}
+
+.mensagem {
+  position: absolute;
+  margin-top: 570px;
+  margin-left: 420;
+  border: none;
+  width: 520px;
+  height: 100px;
+  color: #f080a9;
+
+  text-indent: 20px;
+  text-align: center;
+  text-decoration-color: #f080a9;
+}
+
+.insta {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  margin-left: 490px;
+  margin-top: 1120px;
+  filter: invert(100%);
+}
+
+.ola.-foot {
+  position: absolute;
+  font-weight: 800;
+  background-color: #f080a9;
+  color: #fff;
+  margin-top: 1080px;
+  width: 1000px;
+  height: 150px;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 70px;
+  margin-left: 0px;
+}
+
+.sobre.-foot {
+  color: #fff;
+  margin-top: 1160px;
+  margin-left: 0px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.sobre.-foot2 {
+  color: #fff;
+  margin-top: 1190px;
+  margin-left: 0px;
+  text-align: center;
+  font-size: 16px;
+}
+
+.copy1 {
+  position: absolute;
+  font-family: "Overlock";
+  font-size: 18px;
+  margin-top: 1215px;
+  margin-left: 412px;
+  font-weight: 600;
+}
+
+.copy2 {
+  position: absolute;
+  font-family: "Overlock";
+  font-size: 18px;
+  margin-top: 1240px;
+  margin-left: 450px;
+  font-weight: 600;
+}
